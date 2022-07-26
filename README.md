@@ -1,6 +1,2 @@
-<div align="center">
-  <a href="https://github.com/raypher">
-  <img height="180em" width="42%"src="https://github-readme-stats.vercel.app/api?username=raypher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypher&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![raypher´s GitHub Stats](https://github-readme-stats.vercel.app/api?username=raypher&show_icons=true&line_height=27&count_private=true&theme=dracula) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raypher&theme=dracula&langs_count=3)
 
